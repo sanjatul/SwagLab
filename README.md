@@ -55,7 +55,7 @@ Run All Tests Sequentially
 1. To execute all tests together in a sequential order, use:
 
 ```bash
-npm run-suite
+npm run run-suite
 ```
 2. Run Individual Test Scenarios
 Each scenario can be run independently using the commands below.
